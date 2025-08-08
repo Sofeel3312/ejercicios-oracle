@@ -1,0 +1,26 @@
+# Archivos compilados
+*.class
+
+# Carpetas de salida de compilación
+*/out/
+*/build/
+*/target/
+
+# Archivos de configuración de IDEs
+*.log
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.tmp
+*.swp
+
+# Archivos de entorno
+.env
